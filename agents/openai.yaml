@@ -1,0 +1,4 @@
+interface:
+  display_name: "Wannier HR Symmetrization"
+  short_description: "Portable Python 3 Wannier symmetry and band checks"
+  default_prompt: "Use $wannsym to classify my Wannier model, audit its basis, symmetrize the HR with the matching Python 3 workflow, and compare the bands before and after."
